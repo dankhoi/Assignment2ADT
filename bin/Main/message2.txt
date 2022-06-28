@@ -1,0 +1,1 @@
+Calling a method of a class that inherits another class, if you do not override.

@@ -1,0 +1,1 @@
+The Runtime class is encapsulated in the Runtime environment. This class is used for memory management.
